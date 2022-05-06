@@ -28,4 +28,4 @@ jobs:
           heroku_api_key: '6e050961-f010-4653-b115-5ac3b9a55762'
           heroku_app_name: 'actioncopy'
           heroku_email: 'atul.gautam@vayuz.com'
-          branch: 'master'
+          branch: 'main'
